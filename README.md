@@ -24,7 +24,6 @@ This repository serves as a structured record of my DSA journey through the Stri
 DSA/
 │
 ├── README.md
-├── PROGRESS.md
 │
 ├── Notes/
 ├── Templates/
