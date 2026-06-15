@@ -82,9 +82,35 @@ Each solution includes:
 - Space Complexity
 - Python Implementation
 
+
+
 ## Progress
 
-Progress is maintained in `PROGRESS.md`.
+### Striver A2Z Roadmap
+
+- [ ] Basics
+- [ ] Sorting
+- [ ] Arrays
+- [ ] Binary Search
+- [ ] Strings
+- [ ] Linked List
+- [ ] Recursion
+- [ ] Bit Manipulation
+- [ ] Stack & Queue
+- [ ] Trees
+- [ ] BST
+- [ ] Heap
+- [ ] Graphs
+- [ ] Dynamic Programming
+
+### Milestones
+
+- [ ] First 50 Problems
+- [ ] First 100 Problems
+- [ ] First 200 Problems
+- [ ] First 300 Problems
+- [ ] Complete A2Z Sheet
+- [ ] Solve 500+ Problems
 
 ## Goal
 
