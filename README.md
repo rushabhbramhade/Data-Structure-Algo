@@ -2,6 +2,12 @@
 
 A curated collection of Data Structures and Algorithms solutions, notes, templates, and problem-solving patterns implemented in Python.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/DSA-Striver%20A2Z-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" />
+</p>
+
 ## Overview
 
 This repository serves as a structured record of my DSA journey through the Striver A2Z Sheet, with a focus on algorithmic thinking, interview preparation, and writing clean, efficient code.
