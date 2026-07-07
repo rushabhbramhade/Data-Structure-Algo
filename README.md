@@ -20,7 +20,7 @@ This repository serves as a structured record of my DSA journey through the Stri
 
 ## Repository Structure
 
-```text
+```text 
 DSA/
 │
 ├── README.md
