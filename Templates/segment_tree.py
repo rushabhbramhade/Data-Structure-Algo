@@ -11,7 +11,7 @@ class SegmentTree:
         for i in range(self.size - 1, 0, -1):
             self.tree[i] = self.tree[2 * i] + self.tree[2 * i + 1]
     
-    def update(self, pos, value):
+    def update(self, pos, value): 
         pos += self.size
         self.tree[pos] = value
         pos >>= 1
