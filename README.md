@@ -1,9 +1,9 @@
 # Data Structures & Algorithms
 
-A curated collection of Data Structures and Algorithms solutions, notes, templates, and problem-solving patterns implemented in Python.
+A curated collection of Data Structures and Algorithms solutions, notes, templates, and problem-solving patterns implemented in C++.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/DSA-Striver%20A2Z-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" />
 </p>
@@ -14,7 +14,7 @@ This repository serves as a structured record of my DSA journey through the Stri
 
 ## Tech Stack
 
-- Python
+- C++
 - LeetCode
 - Striver A2Z DSA Sheet
 
@@ -79,7 +79,7 @@ Each solution includes:
 - Approach
 - Time Complexity
 - Space Complexity
-- Python Implementation
+- C++ Implementation
 
 
 
