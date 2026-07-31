@@ -1,0 +1,5 @@
+# Zed editor config
+.zed/
+
+# Compiled binaries
+run
